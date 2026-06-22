@@ -2,7 +2,7 @@
 
 An elegant, production-ready web application that utilizes an **AdaBoost Classifier** to analyze developer productivity, stress, and workload metrics to generate intelligent predictions. Built with **Flask** and styled with a high-end, responsive **Tailwind CSS** interface.
 
-🔗 **Live Production URL:** [Launch Analytics Application](https://newproject-mauve-two.vercel.app/predict)
+🔗 **Live Production URL:** https://newproject-mauve-two.vercel.app/
 
 ---
 
